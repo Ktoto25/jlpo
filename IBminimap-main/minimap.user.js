@@ -7,9 +7,9 @@
 // @match        https://pixelplanet.fun/*
 // @match        http://pixelplanet.fun/*
 // @homepage     https://github.com/IlyaBOT/IBminimap
-// @updateURL    https://raw.githubusercontent.com/Ktoto25/mini/main/minimap.user.js
+// @updateURL    https://raw.githubusercontent.com/Ktoto25/jlpo/main/minimap.user.js
 // @downloadURL  
-https://raw.githubusercontent.com/Ktoto25/mini/main/minimap.user.js
+https://raw.githubusercontent.com/Ktoto25/jlpo/main/minimap.user.js
 // @grant        none
 // ==/UserScript==
 Number.prototype.between = function(a, b) {
